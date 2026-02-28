@@ -18,6 +18,7 @@ function generateComputerChoice() {
   } else {
     return "Stump";
   }
+  
 }
 
 
