@@ -8,6 +8,7 @@ let score ={
 
 
 function generateComputerChoice() {
+  
   let randomNumber = Math.random() * 3;
 
   if (randomNumber > 0 && randomNumber <= 1) {
