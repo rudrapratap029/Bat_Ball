@@ -19,6 +19,7 @@ function generateComputerChoice() {
   }
 }
 
+
 function getResult(userMove, computerMove) {
   if (userMove === "Bat") {
     if (computerMove === "Ball") {
